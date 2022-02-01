@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
+
 Hello everyone. 
 
 This is me typing a blog post
