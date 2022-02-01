@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: A Sandbox for learning gh-pages with jekyll
 ---
 
-I'm glad you are here. I plan to talk about ...
+There are many like it by this one is mine! ...
